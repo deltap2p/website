@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background: black;
     text-align: center;
     color: white;
     .header-content {
@@ -349,3 +349,8 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+}
