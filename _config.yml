@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: The Delta Foundation for Peer to Peer Distributed Systems Engineering
+email: info@deltap2p.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://deltap2p.com" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: deltap2p
+github_username: deltap2p
 
 # Build settings
 markdown: kramdown
