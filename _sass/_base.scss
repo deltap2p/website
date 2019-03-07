@@ -350,6 +350,11 @@ body {
 }
 
 #myVideo {
+    z-index: -4;
     right: 0;
     bottom: 0;
 }
+
+@media only screen and (max-width: 768px) {
+    #myVideo{ display: none !important; }
+ }
